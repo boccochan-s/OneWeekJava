@@ -5,4 +5,4 @@
  * @author bocco
  *
  */
-package OneWeekJava;
+package OneWeekJavaBasic;

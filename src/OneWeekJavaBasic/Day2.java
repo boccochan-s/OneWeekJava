@@ -1,4 +1,4 @@
-package OneWeekJava;
+package OneWeekJavaBasic;
 
 public class Day2 {
     private void prob2_1() {
